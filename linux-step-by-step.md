@@ -32,7 +32,7 @@ This short howto describes step-by-step how to install the YSFReflector-Dashboar
 
 5. Install PHP5 and enable the required modules:
 
-	>sudo apt-get install php5-common php5-cgi php5
+	>sudo apt-get install php-common php-cgi php
 
 6. To install the dashboard you should use git for easy updates:
 
